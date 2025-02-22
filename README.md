@@ -20,7 +20,7 @@ Ticket Processor is a Go-based application for processing receipts and managing 
 ## Accessing Swagger Documentation
 
 The Swagger documentation for the API can be accessed at the following route:
-```/swagger/index.html```
+```/swagger/```
 
 This route provides a user-friendly interface to explore and test the API endpoints.
 
